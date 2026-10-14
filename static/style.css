@@ -1,0 +1,19 @@
+:root {
+  /* Color Palette */
+  --primary: #2a5298;
+  --secundary: #5b82c7;
+}
+nav{
+    font-size: 1rem;
+}
+article{
+    font-size: 2rem;
+}
+section{
+    font-size: 0.5rem;
+    background-color: var(--secundary);
+}
+.fondo{
+    background-color: var(--primary);
+    width: 20%;
+}
